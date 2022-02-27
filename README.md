@@ -1,0 +1,2 @@
+# LGMVIP_Task-2
+#Stock_Market_Prediction_And_Forecasting_Using_Stacked_LSTM
